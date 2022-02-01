@@ -2,18 +2,17 @@
 
 ### Hi there 👋
 
-<!--
-**deepanganth/deepanganth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-                     ### few things about me
+- I'm Deepan Ganth from India, and I do content on design and Developement. 
+-         I really enjoy learning web design and UI/UX in general
+ 
+ 
+ 
+ 
+-             - 🔭 I’m currently studying at university
+         - 🌱 I’m currently learning UI / UX and web design
+                🤔 I’m looking for help with Nothing
+                     - 💬 Ask me about Anything
+                         - 😄 Pronouns: He 
+           - ⚡ Fun fact: “My perfect day would start with
+                     CODING and end with CODING.”
