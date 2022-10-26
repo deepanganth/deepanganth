@@ -81,7 +81,7 @@ I really enjoy learning web design and UI/UX in general
 </a>
 <a href="https://github.com/deepanganth?tab=followers"><img src="https://img.shields.io/github/followers/deepanganth?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+[![@deepanganth's Holopin board](https://holopin.me/deepanganth)](https://holopin.io/@deepanganth)
 
 
 <h2>
