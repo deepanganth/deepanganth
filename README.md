@@ -1,5 +1,3 @@
-
-![Untitled-1-copy](https://user-images.githubusercontent.com/83934355/152623066-66f9c72f-ea98-417a-9274-f9ead3435052.gif)
 ![Banner](https://github.com/deepanganth/deepanganth/assets/83934355/dd3dca4d-48ab-420e-b410-e18e3683bf84)
 
 
