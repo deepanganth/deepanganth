@@ -1,7 +1,5 @@
 ![Banner](https://github.com/deepanganth/deepanganth/assets/83934355/dd3dca4d-48ab-420e-b410-e18e3683bf84)
-
-                              ![WsbPortfolioGIF](https://github.com/deepanganth/deepanganth/assets/83934355/50c72fdf-8b71-493b-a0c3-4519dd69c0f4)
-https://deepanganth.github.io/portfolio/
+My portfolio---------------------> https://deepanganth.github.io/portfolio/
 
 # Hi there 👋
 <h3 align="center">
