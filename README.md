@@ -1,25 +1,35 @@
 ![Banner](https://github.com/deepanganth/deepanganth/assets/83934355/dd3dca4d-48ab-420e-b410-e18e3683bf84)
 
 <h3 align="center">
-My Portfolio
+Welcome to My Portfolio
 </h3>
---------------------------------------------------> https://deepanganth.github.io/portfolio/ <--------------------------------------------------
+<p align="center">
+  <a href="https://deepanganth.github.io/portfolio/" target="_blank"><strong>Visit My Web Portfolio 🌐</strong></a>
+</p>
 
-# Hi there 👋
+---
+
+# 👋 Hi, I'm Deepan Ganth
+
 <h3 align="center">
- I'm Deepan Ganth from India, and I do content on design and Developement. <br> 
-I really enjoy learning web design and UI/UX in general
+ I'm from India — passionate about design, development, and now exploring enterprise technology.<br>
+ Previously a web design enthusiast, currently growing as a <strong>Workday Consultant</strong> and learning <strong>Workday Extend</strong>.
 </h3>
 
+---
 
-<h2 align="center">
- few things about me
-</h2> 
 
-![small_banner](https://user-images.githubusercontent.com/83934355/151973010-d7bbb3b1-18f5-44dc-b3ee-f8e24b65f259.jpg)
+---
 
-![about_me](https://user-images.githubusercontent.com/83934355/152626425-2dbb866d-474a-4d96-9582-212d5cc9a94b.jpg)
+## 💡 About Me
 
+- 🎨 I started with a love for **web design** and **UI/UX**.
+- 💻 Built full-stack projects using **Java**, **React**, **Spring Boot**, and more.
+- 📊 Now stepping into the **Workday ecosystem**, expanding my skillset in **Workday Extend**.
+- 🌱 Always curious to learn, adapt, and grow across new technologies.
+- 📫 Connect with me below!
+
+---
 
 ## 🚀 Languages and Tools:
 
@@ -46,21 +56,7 @@ I really enjoy learning web design and UI/UX in general
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
-    <a href="https://github.com/deepanganth/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="deepanganth's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanganth&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/deepanganth/github-readme-activity-graph"><img alt="deepanganth's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepanganth&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+---
 
 ## Connect with me:
 <p align="left">
@@ -73,16 +69,16 @@ I really enjoy learning web design and UI/UX in general
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/deepanganth/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=deepanganth">
 </a>
 <a href="https://github.com/deepanganth?tab=followers"><img src="https://img.shields.io/github/followers/deepanganth?label=Followers&style=social" alt="GitHub Badge"></a>
 
 [![@deepanganth's Holopin board](https://holopin.me/deepanganth)](https://holopin.io/@deepanganth)
 
-
+## 🧠 Quote I Like
 <h2>
-“If you think math is hard, try web design.”
+"I don’t just build apps, I Extend them – Workday style 😎"
 </h2>
 
 
